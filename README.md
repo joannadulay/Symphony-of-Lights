@@ -10,7 +10,7 @@ Symphony of Lights is an interactive embedded systems project that synchronizes 
 - 4-switch input interface for manual control and state toggling
 - Hardware-level integration of debouncing and switching logic
 
-#Hardware Used
+# Hardware Used
 - Arduino microcontroller board
 - 8 LEDs
 - 4 tactile push switches
