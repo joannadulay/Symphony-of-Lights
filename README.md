@@ -16,3 +16,6 @@ Symphony of Lights is an interactive embedded systems project that synchronizes 
 - 4 tactile push switches
 - Current-limiting and pull-down resistors
 - Breadboard and jumper wires
+
+# Video Documentations
+https://drive.google.com/drive/folders/1QdBcjabaC0WMGpRr1KzXBAMMZ6dMnCR2?usp=sharing
