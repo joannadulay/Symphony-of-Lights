@@ -51,4 +51,4 @@ Symphony of Lights is an interactive embedded systems project that demonstrates 
 
 # Video Documentations
 
-https://drive.google.com/drive/folders/1QdBcjabaC0WMGpRr1KzXBAMMZ6dMnCR2?usp=sharing
+- [Project Demonstration and Testing Videos](https://drive.google.com/drive/folders/1QdBcjabaC0WMGpRr1KzXBAMMZ6dMnCR2?usp=sharing)
