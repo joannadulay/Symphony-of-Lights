@@ -6,6 +6,10 @@ An Arduino-based music-synchronized LED controller that uses push switches to se
 
 Symphony of Lights is an interactive embedded systems project that demonstrates how an Arduino can control multiple LEDs through programmed timing, switching logic, and user inputs. The system provides three different LED patterns that can be selected using switches, along with a dedicated stop switch to turn off the lighting sequence.
 
+## Prototype
+
+![Symphony of Lights Prototype](assets/symphonyoflights.png)
+
 # Key Features
 
 - Three selectable LED lighting patterns
